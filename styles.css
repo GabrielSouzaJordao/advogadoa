@@ -213,7 +213,7 @@ a {
 /* Hero Section */
 .hero {
     height: 100vh;
-    background: url('imagens/img-fundo.jpg') center/cover no-repeat;
+    background: url('imagens/hero-bg.png') center/cover no-repeat;
     background-color: var(--black);
     /* Fallback */
     display: flex;
